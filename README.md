@@ -92,7 +92,6 @@ To check for overfitting, **learning curves** were plotted and compared for diff
 
 ## Next Steps
 
-- **Hyperparameter tuning** for Ridge regression to further optimize performance
 - **Feature Selection Refinements** to remove redundant variables
 - **Test Set Predictions** using the final model
 
