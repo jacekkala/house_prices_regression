@@ -41,7 +41,7 @@ Setting a default threshold, **28.97%** of data rows were identified as potentia
 
 ### Feature Engineering and Transformations
 
-- **Skewed Features**: Right-skewed distributions were transformed using **logarithmic transformations** to normalize distributions and improve linear regression performance.
+- **Skewed Features**: Right-skewed distributions were transformed using **logarithmic and power transformations** to normalize distributions and improve linear regression performance.
 - **Correlation Analysis**: Features highly correlated with `SalePrice` were prioritized.
 - **Categorical Encoding**: Used **OneHotEncoder** to convert categorical variables into binary features.
 
